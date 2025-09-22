@@ -30,9 +30,9 @@ import ArrowTopRightOnSquare from '../components/Icons/ArrowTopRightOnSquare.vue
                 </div>
               </li>
               <li>
-                <a href="mailto:hi@ngoquocdat.dev" class="inline-flex items-center gap-2">
+                <a href="mailto:datlechin@gmail.com" class="inline-flex items-center gap-2">
                   <AtSymbolIcon class="size-4" />
-                  hi@ngoquocdat.dev
+                  datlechin@gmail.com
                 </a>
               </li>
               <li>
