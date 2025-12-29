@@ -1,1 +1,1 @@
-# [ngoquocdat.dev](https://ngoquocdat.dev)
+# [nqd.vn](https://nqd.vn)
